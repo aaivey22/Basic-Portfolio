@@ -11,7 +11,7 @@ h2 {
     color: #4aaaa5;
 }
 
-p {
+p, footer {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
 }
@@ -21,6 +21,11 @@ li {
     color: #777777;
     list-style-type: none;
     display: inline-block;
+    background-color: white;
+}
+
+.papyrus {
+    width: 960px;
 }
 
 body {
