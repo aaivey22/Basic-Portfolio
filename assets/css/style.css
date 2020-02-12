@@ -1,14 +1,19 @@
-h1, h2, h3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
 
 h1 {
     background-color: #4aaaa5;
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px 75px;
+    margin: 0px 300px;
 }
 
 h2 {
     color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 p, footer {
@@ -29,7 +34,7 @@ li {
 }
 
 body {
-    background-color: white;
+    background-image: url("papyrus.png");
 }
 
 input#submit {
