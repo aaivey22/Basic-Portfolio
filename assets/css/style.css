@@ -105,5 +105,8 @@ input#submit {
     color: white;
     background-color: #4aaaa5;
     border-color: #4aaaa5;
+    margin-left: 25px;
     border-style: none;
+    padding: 7px 13px;
+    border-radius: 5px;
 }
